@@ -1,0 +1,59 @@
+.mainfooter{
+    padding : 2rem 8rem; 
+    color: white;
+    background-color: rgb(57, 57, 57);
+    font-family: normal;
+}
+
+span{
+    display: flex;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.topfooter1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: .5rem;
+}
+.topfooter2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactinfo{
+    margin-left: 1rem;
+}
+
+.footerheading{
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(237, 87, 17);
+    margin-bottom: 2rem;
+}
+
+.middlefooter{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    border: 1px solid rgb(160, 160, 160);
+}
+
+.bottomfooter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom{
+    border: 1px solid rgb(237, 87, 17);
+    border-radius: 100%;
+    padding : 1rem;
+}
+
+.bottom:hover, .top:hover{
+    cursor: pointer;
+    color: rgb(237, 87, 17);
+}

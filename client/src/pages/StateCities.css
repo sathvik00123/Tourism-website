@@ -1,0 +1,9 @@
+.placename{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.otherplaceimg:hover, .mapimg:hover{
+    box-shadow: 0 0 10px black;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.main-cal{
+    padding: 6rem;
+    text-align: center;
+    object-fit: cover;
+    background-image: url("./calendar.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+
+.main-cal > div{
+    margin: auto;
+}
+
+.header{
+    margin-bottom: 4rem;
+    font-weight: 700;
+    font-size: 3rem;
+    color:rgb(100, 252, 252);
+}

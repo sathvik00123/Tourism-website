@@ -1,0 +1,30 @@
+table{
+    width: 100%;
+}
+
+.heading{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+table, tr, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+thead{
+    background-color: rgb(255, 132, 16);
+    color:white;
+}
+
+tbody{
+    background-color: rgb(255, 225, 177);
+    color:rgb(122, 120, 115);
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.paragraph{
+    margin-top: 2rem;
+    color: rgb(55, 54, 54);
+    font-weight: 500;
+}

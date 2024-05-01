@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "1",
+        "url" : "./Slide1.jpg",
+        "name" : "valleys"
+    },
+    {
+        "id" : "2",
+        "url" : "./Slide2.jpg",
+        "name" : "River side"
+    },
+    {
+        "id" : "3",
+        "url" : "./Slide3.jpg",
+        "name" : "Famous monuments"
+    },
+    {
+        "id" : "4",
+        "url" : "./Slide4.jpg",
+        "name" : "Churches,Temples and mosques"
+    },
+    {
+        "id" : "5",
+        "url" : "./Slide5.jpg",
+        "name" : "Crops and Farming"
+    },
+    {
+        "id" : "6",
+        "url" : "./Slide6.jpg",
+        "name" : "Wildlife santuaries"
+    },
+    {
+        "id" : "7",
+        "url" : "./Slide7.jpg",
+        "name" : "Hill stations"
+    },
+    {
+        "id" : "8",
+        "url" : "./Slide8.jpg",
+        "name" : "Beaches"
+    }
+]

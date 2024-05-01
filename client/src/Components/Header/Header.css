@@ -1,0 +1,46 @@
+.destination{
+    position: absolute;
+    visibility: hidden;
+    left: 8rem;
+    z-index: 1;
+}
+
+.destin:hover .destination{
+    visibility: visible;
+}
+
+.login-block{
+    width: 7%;
+    position: absolute;
+    background-color: rgb(171, 251, 232);
+    border-radius: 5px;
+    /* margin-top: 1rem; */
+    right: 5.5rem;
+    padding: 1rem;
+    visibility: hidden;
+}
+
+.logout-div > h3:hover{
+    cursor: pointer;
+}
+
+.login-div, .logout-div{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+}
+
+.user-logo:hover .login-block{
+    visibility: visible;
+}
+
+.profile{
+    width: 2rem;
+    height: 2rem;
+}
+
+.logoutbutton{
+    width: 4rem;
+}

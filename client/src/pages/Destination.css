@@ -1,0 +1,57 @@
+.destin-main{
+    background-color: rgb(255 237 213);
+    width: 1270px;
+    height: 500px;
+    color: rgb(103, 119, 145);
+    padding: 2.5rem;
+    justify-content: space-between;
+}
+
+/* States  */
+.state-div{
+    width: 70%;
+}
+
+.state-name, .territory-name{
+    font-weight: bold;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+.state-list, .territory-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(253, 244, 234);
+    padding: 2rem;
+    border-radius: 20px;
+}
+.states{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.state-li{
+    font-size: 16px;
+} 
+
+.state-li:hover,.territory-li:hover{
+    color: rgb(0, 45, 117);
+    cursor: pointer;
+}
+
+/* Territories */
+.territories{
+    display: flex;
+    flex-direction: column;
+}
+
+.territory-li{
+    font-size: 16px;
+}
+
+
+
+
+
+
