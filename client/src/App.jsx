@@ -1,16 +1,5 @@
-import {BrowserRouter, Route, Routes} from "react-router-dom"
-import Layout from "./pages/Layout"
-import Home from './pages/Home'
-import Calendar from "./pages/CalendarPage" 
-import About from "./pages/About"
-import Header from "./Components/Header/Header"
-import Footer from "./Components/Footer/Footer"
-import LoginPage from "./pages/LoginPage"
-import Register from "./Components/Register/Register"
-import './App.css';
-import State from "./pages/State"
-import StateCities from "./pages/StateCities"
-import InterestsPage from "./pages/InterestsPage"
+
+
 
 function App() {
   return (
